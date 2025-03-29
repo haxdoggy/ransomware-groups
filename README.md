@@ -1,8 +1,20 @@
-# ransomware-groups
+# Ransomware-groups
 Ransomware-groups and their .onion links
 
-Please note that this information is ment 
+List of Ransomware Groups - Official Websites
 
+Disclaimer:
+This content is provided solely for security researchers, IT professionals, and those interested in cybersecurity education. Its purpose is to raise awareness of ransomware threats and to help users understand, defend against, and mitigate such risks.
+
+Please Note:
+
+The techniques, tools, and code discussed here are for educational purposes only.
+
+Illegal activities, including the deployment or distribution of ransomware, are criminal offenses and carry severe legal penalties.
+
+This post does not condone hacking or unauthorized access but aims to offer educational insights into cybersecurity threats.
+
+By proceeding, you agree to use this information responsibly and in accordance with all applicable laws.
 
 ThreeAM
 http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/
