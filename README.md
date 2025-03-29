@@ -1,4 +1,4 @@
-# Ransomware-groups
+# Ransomware groups
 Ransomware-groups and their .onion links
 
 List of Ransomware Groups - Official Websites
