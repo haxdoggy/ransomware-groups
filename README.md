@@ -6,7 +6,7 @@ List of Ransomware Groups - Official Websites
 Disclaimer:
 This content is provided solely for security researchers, IT professionals, and those interested in cybersecurity education. Its purpose is to raise awareness of ransomware threats and to help users understand, defend against, and mitigate such risks.
 
-Please Note:
+###Please Note:
 
 The techniques, tools, and code discussed here are for educational purposes only.
 
@@ -16,21 +16,21 @@ This post does not condone hacking or unauthorized access but aims to offer educ
 
 By proceeding, you agree to use this information responsibly and in accordance with all applicable laws.
 
-ThreeAM
+##ThreeAM
 http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/
 Email: ThreeAM@onionmail.org
 
-ransomhub
+##ransomhub
 http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/
 TOX ID: 4D598799696AD5399FABF7D40C4D1BE9F05D74CFB311047D7391AC0BF64BED47B56EEE66A528
 
-Akira
+##Akira
 https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/
 
-Akira Additional Information:
+###Akira Additional Information:
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a
 
-BianLian
+##BianLian
 http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/
 http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion
 Tox: A8AD0FD4C931CDAA1408D5A60CBF38CEDF46B41E19A8A55E4EF1F1848AF3416AE52D278D37DF
