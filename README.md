@@ -1,6 +1,10 @@
 # Ransomware groups
 Ransomware-groups and their .onion links
 
+Tracking ransomware groups:
+## https://www.ransomware.live/
+## https://www.ransomlook.io/recent
+
 List of Ransomware Groups - Official Websites
 
 Disclaimer:
