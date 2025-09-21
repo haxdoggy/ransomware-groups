@@ -6,18 +6,16 @@ This content is provided solely for security researchers, IT professionals, and 
 
 ### Please Note:
 
-The techniques, tools, and code discussed here are for educational purposes only.
-
-Illegal activities, including the deployment or distribution of ransomware, are criminal offenses and carry severe legal penalties.
-
-This post does not condone hacking or unauthorized access but aims to offer educational insights into cybersecurity threats.
-
-By proceeding, you agree to use this information responsibly and in accordance with all applicable laws.
+- The techniques, tools, and code discussed here are for educational purposes only.
+- Illegal activities, including the deployment or distribution of ransomware, are criminal offenses and carry severe legal penalties.
+- This post does not condone hacking or unauthorized access but aims to offer educational insights into cybersecurity threats.
+- By proceeding, you agree to use this information responsibly and in accordance with all applicable laws.
 
 ## Websites collecting ransomware groups and leaks:
 #### https://www.ransomware.live/
 #### https://www.ransomlook.io/recent
 
+# Groups:
 
 ## ThreeAM
 http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/
