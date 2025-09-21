@@ -1,11 +1,5 @@
 # Ransomware groups
-Ransomware-groups and their .onion links
-
-Tracking ransomware groups:
-## https://www.ransomware.live/
-## https://www.ransomlook.io/recent
-
-List of Ransomware Groups - Official Websites
+My list of Ransomware-groups and their official .onion links
 
 Disclaimer:
 This content is provided solely for security researchers, IT professionals, and those interested in cybersecurity education. Its purpose is to raise awareness of ransomware threats and to help users understand, defend against, and mitigate such risks.
@@ -19,6 +13,11 @@ Illegal activities, including the deployment or distribution of ransomware, are 
 This post does not condone hacking or unauthorized access but aims to offer educational insights into cybersecurity threats.
 
 By proceeding, you agree to use this information responsibly and in accordance with all applicable laws.
+
+## Websites collecting ransomware groups and leaks:
+#### https://www.ransomware.live/
+#### https://www.ransomlook.io/recent
+
 
 ## ThreeAM
 http://threeamkelxicjsaf2czjyz2lc4q3ngqkxhhlexyfcp2o6raw4rphyad.onion/
